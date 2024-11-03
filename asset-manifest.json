@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.8bf6f4a8.css",
+    "main.js": "/My-Portfolio/static/js/main.0c105005.js",
+    "static/media/Feb14 .png": "/My-Portfolio/static/media/Feb14 .b6491bc6feeade40f306.png",
+    "static/media/Bakery smile .png": "/My-Portfolio/static/media/Bakery smile .c089ad7156822f856408.png",
+    "static/media/College forms.png": "/My-Portfolio/static/media/College forms.990a83e762e0e2736e93.png",
+    "static/media/Happy birthday wishes.png": "/My-Portfolio/static/media/Happy birthday wishes.9b6e959b5110293dd4cf.png",
+    "static/media/Iam.jpg": "/My-Portfolio/static/media/Iam.74bc4742bb5c550b95c3.jpg",
+    "static/media/Electronic ecommerce Website.png": "/My-Portfolio/static/media/Electronic ecommerce Website.df75a7e1459623a795ab.png",
+    "static/media/Birthday wish website.png": "/My-Portfolio/static/media/Birthday wish website.d2e536aa89db3868819f.png",
+    "static/media/Tridev-Reddy-Kolagatla-Resume.pdf": "/My-Portfolio/static/media/Tridev-Reddy-Kolagatla-Resume.22d2ca8f097dcad60f7d.pdf",
+    "index.html": "/My-Portfolio/index.html",
+    "main.8bf6f4a8.css.map": "/My-Portfolio/static/css/main.8bf6f4a8.css.map",
+    "main.0c105005.js.map": "/My-Portfolio/static/js/main.0c105005.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bf6f4a8.css",
+    "static/js/main.0c105005.js"
+  ]
+}
